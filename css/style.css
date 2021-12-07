@@ -7,6 +7,13 @@
 body{
    background: snow; 
 }
+section{
+    padding: 20px 10px;
+}
+section h1{
+    font-size: 2rem;
+    text-align: center;
+}
 
 .big-box{
     margin: 10px auto;
@@ -32,15 +39,15 @@ body{
 }
 .content h3{
     color: #333;
-    letter-spacing: 2px;
-    font-size: 1.8rem;
+    letter-spacing: 1px;
+    font-size: 1.6rem;
     line-height: 3rem;
     font-weight: 600;
 }
 .content p{
     color: darkgray;
     line-height: 2rem;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 400;
 }
 .content ul{
